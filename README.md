@@ -12,6 +12,10 @@ Eventually all this project will helpful for the society which leads to healthy 
 # Introduction
 We are living in 21st century where all the work is done using technology and has become an integrated part of life. In this article we proposed the design and implementation of an electric vehicle (EV) charging station finder application developed using Java, HTML, CSS language. Due to the limitation of electrical power distribution network, Electric Vehicles charging stations are limited and to find them is hard for new EV owner. In order to provide information to users about the charging stations and to help user to navigate, it was also created a web application to help the EV owners on these processes. This Proposed EV finder Application helps EV owners to locate a charging station near them and to plan a journey and with many features.
 
+![e-vehicle-chraging-station-finder-mobile-app-1-800x508](https://user-images.githubusercontent.com/107606154/204362892-c6ecd56b-67e3-4ea7-976e-e4d442b9f8c3.png)
+
+
+
 # Technologies
 
 Java(Servlet,  JSP),
